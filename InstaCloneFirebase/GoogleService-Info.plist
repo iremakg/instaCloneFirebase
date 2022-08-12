@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>793904649265-84qb6esb1nt0r0931kqv8195lq0hauit.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.793904649265-84qb6esb1nt0r0931kqv8195lq0hauit</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCGrZMLBDcbtoMFXXqZS6gt9-DEa3XmNSA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>793904649265</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.iremakgoz.InstaCloneFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>instaclonefirebase-b2260</string>
+	<key>STORAGE_BUCKET</key>
+	<string>instaclonefirebase-b2260.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:793904649265:ios:c9591dce6cb396d6d7f110</string>
+</dict>
+</plist>
